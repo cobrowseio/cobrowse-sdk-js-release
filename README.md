@@ -10,8 +10,11 @@ Add this javascript snippet to the top of the `<head>` section of your website.
 
 ```html
 <script>
-var CobrowseLicenseKey = "<put your license key here>";
-var s = document.createElement("script"); s.async = true; s.src = 'https://js.cobrowse.io/CobrowseIO.js'; document.body.appendChild(s); s.onload = function() { CobrowseIO.license = CobrowseLicenseKey; CobrowseIO.start(); };
+var s = document.createElement("script"); s.async = true; s.src = 'https://js.cobrowse.io/CobrowseIO.js';
+document.body.appendChild(s); s.onload = function() {
+    CobrowseIO.license = "<put your license key here>";
+    CobrowseIO.start();
+};
 </script>
 ```
 
@@ -41,6 +44,11 @@ CobrowseIO.customData = {
 Once you have your Javascript snippet and license key set up, navigate to <https://cobrowse.io/dashboard> to see your device listed. You can click the "Connect" button to initiate a Cobrowse session!
 
 **Note: Cobrowse needs to be able to access your website, so localhost addresses are not recommenced for testing. To test on a local development version, we recommend using [ngrok](https://ngrok.com/).**
+
+## Optional features
+
+[Customizing the interface](./docs/customizing-the-interface.md)
+
 
 ## Questions?
 Any questions at all? Please email us directly at [hello@cobrowse.io](mailto:hello@cobrowse.io).
