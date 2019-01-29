@@ -1,6 +1,6 @@
 # Cobrowse.io - Javascript SDK for Web
 
-Cobrowse.io is 100% free and easy to try out in your own apps. Please see full documentation at [https://cobrowse.io/docs](https://cobrowse.io/docs).
+Cobrowse.io is 100% free and easy to try out on your own sites. Please see full documentation at [https://cobrowse.io/docs](https://cobrowse.io/docs).
 
 Try our **online demo** at the bottom of our homepage at <https://cobrowse.io/#tryit>.
 
@@ -22,7 +22,7 @@ document.body.appendChild(s); s.onload = function() {
 
 Please register an account and generate your free License Key at <https://cobrowse.io/dashboard/settings>.
 
-This will associate sessions from your mobile app with your Cobrowse.io account.
+This will associate sessions from your website with your Cobrowse.io account.
 
 
 ### Add device metadata
