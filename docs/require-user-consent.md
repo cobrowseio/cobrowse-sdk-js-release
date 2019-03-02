@@ -4,18 +4,13 @@ You may want to ask the user for permission to view their screen before starting
 
 ```javascript
 
-// make sure the client has been fully loaded
-CobrowseIO.client().then(function() {
-
-    CobrowseIO.confirmSession = function() {
-        return new Promise(function(resolve, reject) {
-            // replace the code below with your own confirmation prompt, calling resolve or reject as a appropriate
-            if (window.confirm('Allow session?')) resolve();
-            else reject();
-        });
-    }
-
-});
+CobrowseIO.confirmSession = function() {
+    return new Promise(function(resolve, reject) {
+        // replace the code below with your own confirmation prompt, calling resolve or reject as a appropriate
+        if (window.confirm('Allow session?')) resolve();
+        else reject();
+    });
+}
 
 ```
 

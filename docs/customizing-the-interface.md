@@ -4,18 +4,14 @@ You can fully customize the interface for a Cobrowse session. The SDK provides h
 
 ```javascript
 
-// make sure the client has been fully loaded
-CobrowseIO.client().then(function() {
-    
-    CobrowseIO.showSessionControls = function(session) {
-        // your code
-    }
+CobrowseIO.showSessionControls = function(session) {
+    // your code
+}
 
-    CobrowseIO.hideSessionControls = function(session) {
-        // your code
-    }
+CobrowseIO.hideSessionControls = function(session) {
+    // your code
+}
 
-});
 ```
 
 ## Questions?
