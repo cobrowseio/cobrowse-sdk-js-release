@@ -1,13 +1,12 @@
 # Customizing the interface (optional)
 
-You can fully customize the interface for a Cobrowse session. The SDK provides hooks for you to render your own interface, add these into the javascript snippet as shown below:
+You can fully customize the interface for a Cobrowse session. The SDK provides hooks for you to render your own interface:
 
-```html
-<script>
-var s = document.createElement("script"); s.async = true; s.src = 'https://js.cobrowse.io/CobrowseIO.js';
-document.body.appendChild(s); s.onload = function() {
-    CobrowseIO.license = "<put your license key here>";
+```javascript
 
+// make sure the client has been fully loaded
+CobrowseIO.client().then(function() {
+    
     CobrowseIO.showSessionControls = function(session) {
         // your code
     }
@@ -16,9 +15,7 @@ document.body.appendChild(s); s.onload = function() {
         // your code
     }
 
-    CobrowseIO.start();
-};
-</script>
+});
 ```
 
 ## Questions?

@@ -10,11 +10,15 @@ Add this javascript snippet to the top of the `<head>` section of your website.
 
 ```html
 <script>
-var s = document.createElement("script"); s.async = true; s.src = 'https://js.cobrowse.io/CobrowseIO.js';
-document.body.appendChild(s); s.onload = function() {
+(function(w,t,c,p,s,e){
+    p=new Promise(function(r){w[c]={client:function(){return p}};
+    s=document.createElement(t);s.async=1;s.src='https://js.cobrowse.io/CobrowseIO.js';
+    e=document.getElementsByTagName(t)[0];e.parentNode.insertBefore(s,e);
+    s.onload=function(){r(w[c]);};});return p;
+})(window,'script','CobrowseIO').then(function(){
     CobrowseIO.license = "<put your license key here>";
     CobrowseIO.start();
-};
+});
 </script>
 ```
 
@@ -49,6 +53,7 @@ Once you have your Javascript snippet and license key set up, navigate to <https
 
 [Customizing the interface](./docs/customizing-the-interface.md)
 
+[Requiring acceptance from the user](./docs/require-user-consent.md)
 
 ## Questions?
 Any questions at all? Please email us directly at [hello@cobrowse.io](mailto:hello@cobrowse.io).
