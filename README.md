@@ -55,5 +55,7 @@ Once you have your Javascript snippet and license key set up, navigate to <https
 
 [Requiring acceptance from the user](./docs/require-user-consent.md)
 
+[Redact sensitive data](./docs/redact-sensitive-data.md)
+
 ## Questions?
 Any questions at all? Please email us directly at [hello@cobrowse.io](mailto:hello@cobrowse.io).
