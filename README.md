@@ -55,6 +55,8 @@ Once you have your Javascript snippet and license key set up, navigate to <https
 
 [Requiring acceptance from the user](./docs/require-user-consent.md)
 
+[Use 6-digit codes](./docs/user-generated-codes.md)
+
 [Redact sensitive data](./docs/redact-sensitive-data.md)
 
 ## Questions?
