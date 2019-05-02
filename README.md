@@ -59,5 +59,7 @@ Once you have your Javascript snippet and license key set up, navigate to <https
 
 [Redact sensitive data](./docs/redact-sensitive-data.md)
 
+[Enable cross document Iframe support](./docs/support-xdoc-iframes.md)
+
 ## Questions?
 Any questions at all? Please email us directly at [hello@cobrowse.io](mailto:hello@cobrowse.io).
