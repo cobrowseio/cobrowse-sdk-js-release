@@ -12,8 +12,14 @@ You may expose a small UI in your app for users to generate a 6-digit code that 
 
 ```javascript
 
-CobrowseIO.createSessionCode().then(function(code) {
-   console.log('your code is', code);
+// ensure Cobrowse is loaded
+CobrowseIO.client().then(function() {
+
+    // create a code a display it to the user using your own UI
+    CobrowseIO.createSessionCode().then(function(code) {
+       console.log('your code is', code);
+    });
+
 });
 
 ```
