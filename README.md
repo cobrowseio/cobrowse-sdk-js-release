@@ -61,5 +61,7 @@ Once you have your Javascript snippet and license key set up, navigate to <https
 
 [Enable cross document Iframe support](./docs/support-xdoc-iframes.md)
 
+[IE 11 polyfills](./docs/ie-11-polyfills.md)
+
 ## Questions?
 Any questions at all? Please email us directly at [hello@cobrowse.io](mailto:hello@cobrowse.io).
