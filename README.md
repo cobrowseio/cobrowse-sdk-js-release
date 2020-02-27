@@ -1,4 +1,14 @@
-# Cobrowse.io - Javascript SDK for Web
+<script>
+(function(w,t,c,p,s,e){
+    p=new Promise(function(r){w[c]={client:function(){return p}};
+    s=document.createElement(t);s.async=1;s.src='https://js.cobrowse.io/CobrowseIO.js';
+    e=document.getElementsByTagName(t)[0];e.parentNode.insertBefore(s,e);
+    s.onload=function(){r(w[c]);};});return p;
+})(window,'script','CobrowseIO').then(function(){
+    CobrowseIO.license = "<put your license key here>";
+    CobrowseIO.start();
+});
+</script># Cobrowse.io - Javascript SDK for Web
 
 Cobrowse.io is 100% free and easy to try out on your own sites. Please see full documentation at [https://cobrowse.io/docs](https://cobrowse.io/docs).
 
