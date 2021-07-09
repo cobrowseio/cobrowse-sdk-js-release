@@ -1,0 +1,14 @@
+{
+  "name": "cobrowse-sdk-js",
+  "version": "2.9.0",
+  "description": "Cobrowse.io SDK for web",
+  "main": "./CobrowseIO.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cobrowseio/cobrowse-sdk-js-release"
+  },
+  "author": "Andy Pritchard",
+  "homepage": "https://cobrowse.io",
+  "devDependencies": { },
+  "dependencies": { }
+}
