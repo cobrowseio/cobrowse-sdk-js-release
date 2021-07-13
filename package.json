@@ -1,6 +1,6 @@
 {
   "name": "cobrowse-sdk-js",
-  "version": "2.9.1",
+  "version": "2.9.2",
   "description": "Cobrowse.io SDK for web",
   "main": "./CobrowseIO.js",
   "repository": {
