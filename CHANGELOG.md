@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.10.1](#) (2021-08-16)
+
+## [2.10.0](#) (2021-08-16)
+
+
+### Features
+
+* added cbio_session_overlay class to laser and annotation UI ([a7b9105](#))
+
+
+### Bug Fixes
+
+* fixed localStorage check in order to fallback to in-memory or cookie based storage ([11e7ddf](#))
+
 ### [2.9.2](#) (2021-07-13)
 
 
