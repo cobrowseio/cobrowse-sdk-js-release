@@ -15,7 +15,7 @@ Add this javascript snippet to the top of the `<head>` section of your website.
     e=document.getElementsByTagName(t)[0];e.parentNode.insertBefore(s,e);s.onload=function()
     {r(w[c]);};}return p;}};});})(window,'script','CobrowseIO');
 
-    CobrowseIO.license = "<put your license key here>";    
+    CobrowseIO.license = "put your license key here";    
     CobrowseIO.client().then(function(){
         CobrowseIO.start();
     });
