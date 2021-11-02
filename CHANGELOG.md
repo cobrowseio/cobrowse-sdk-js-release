@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.11.0](#) (2021-11-02)
+
+
+### Features
+
+* Adds initial support for cross domain cobrowsing ([c34d0c9](#))
+
+
+### Bug Fixes
+
+* prevent notifications being processed multiple times after multiple stop/start cycles ([f173a88](#))
+
 ### [2.10.2](#) (2021-10-04)
 
 ### [2.10.1](#) (2021-08-16)
