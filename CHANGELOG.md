@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.11.4](#) (2021-12-08)
+
+
+### Bug Fixes
+
+* set redaction: undefined when not redacted ([6c0c212](#))
+* treat unredacted nodes as being added ([c2bf353](#))
+
 ### [2.11.2](#) (2021-11-09)
 
 ### [2.11.1](#) (2021-11-09)
