@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.12.0](#) (2022-01-25)
+
+
+### Bug Fixes
+
+* import test code / svg test ([7480a19](#))
+* use cobrowse.io domain for api requests, fixes cross domain session iframe loading ([11e6808](#))
+
 ### [2.11.4](#) (2021-12-08)
 
 
