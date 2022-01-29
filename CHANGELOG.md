@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.12.1](#) (2022-01-29)
+
+
+### Bug Fixes
+
+* fix crash caused by xdoc iframe redaction ([beb88f9](#))
+
 ## [2.12.0](#) (2022-01-25)
 
 
