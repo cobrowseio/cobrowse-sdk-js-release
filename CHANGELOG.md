@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.13.1](#) (2022-02-10)
+
+
+### Bug Fixes
+
+* fix for <style> tags when used inside <svg> tags ([9516310](#))
+
 ## [2.13.0](#) (2022-02-02)
 
 
