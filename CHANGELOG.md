@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.14.0](#) (2022-03-29)
+
+
+### Features
+
+* expose API error ids ([c54f4e4](#))
+
 ### [2.13.2](#) (2022-02-16)
 
 
