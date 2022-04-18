@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.15.0](#) (2022-04-18)
+
+
+### Features
+
+* set full_device state as enum properties ([b82cc1a](#))
+
+
+### Bug Fixes
+
+* avoid duplicate full device request dialogs ([24dd3e0](#))
+
 ### [2.14.1](#) (2022-04-18)
 
 
