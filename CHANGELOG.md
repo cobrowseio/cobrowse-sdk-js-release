@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.14.1](#) (2022-04-18)
+
+
+### Bug Fixes
+
+* fix an issue in Chrome full device video processing that could cause full device mode to fail in latest version of Chrome ([2cfcca4](#))
+
 ## [2.14.0](#) (2022-03-29)
 
 
