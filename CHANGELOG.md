@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.15.1](#) (2022-05-12)
+
+
+### Bug Fixes
+
+* always allow clearing annotations ([da2049d](#))
+* validate trusted origins ([1879456](#))
+
 ## [2.15.0](#) (2022-04-18)
 
 
