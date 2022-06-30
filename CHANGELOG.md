@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.15.2](#) (2022-06-30)
+
+
+### Bug Fixes
+
+* treat all ionic:// urls as localhost addresses ([fbc5038](#))
+
 ### [2.15.1](#) (2022-05-12)
 
 
