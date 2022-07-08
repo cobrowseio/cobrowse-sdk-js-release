@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.15.3](#) (2022-07-08)
+
+
+### Bug Fixes
+
+* dependency updates ([1e9bb12](#))
+* only update input values on keydown for textareas and text inputs ([2ed21ad](#))
+
 ### [2.15.2](#) (2022-06-30)
 
 
