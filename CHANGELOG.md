@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.16.0](#) (2022-07-25)
+
+
+### Features
+
+* add french translations ([8966860](#))
+* localisation groundwork ([45bf65b](#))
+
 ### [2.15.3](#) (2022-07-08)
 
 
