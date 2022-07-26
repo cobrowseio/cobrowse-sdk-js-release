@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.16.1](#) (2022-07-26)
+
+
+### Bug Fixes
+
+* fix copy / paste error in french translations ([098a65d](#))
+
 ## [2.16.0](#) (2022-07-25)
 
 
