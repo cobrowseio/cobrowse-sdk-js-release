@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.16.3](#) (2022-08-12)
+
+
+### Bug Fixes
+
+* catch errors caused by canvas serialization failures ([0b206f6](#))
+
 ### [2.16.2](#) (2022-08-10)
 
 ### [2.16.1](#) (2022-07-26)
