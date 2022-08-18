@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.16.4](#) (2022-08-18)
+
+
+### Bug Fixes
+
+* ensure the token header is always set of session requests ([6f85cf9](#))
+
 ### [2.16.3](#) (2022-08-12)
 
 
