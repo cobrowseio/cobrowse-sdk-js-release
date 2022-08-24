@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.16.5](#) (2022-08-24)
+
+
+### Bug Fixes
+
+* respect preventDefault() on key entry based events ([6551f11](#))
+* trigger event modifications asynchronously to provide a chance for user handlers to run first ([5fd60e0](#))
+
 ### [2.16.4](#) (2022-08-18)
 
 
