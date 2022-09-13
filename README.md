@@ -2,25 +2,11 @@
 
 Cobrowse.io is 100% free and easy to try out in your own apps. Please see full documentation at [https://docs.cobrowse.io](https://docs.cobrowse.io).
 
-Try our **online demo** at the bottom of our homepage at <https://cobrowse.io/#tryit>.
+Try our **online demo** at <https://cobrowse.io/demo>.
 
 ## Installation
 
-Add this javascript snippet to the top of the `<head>` section of your website.
-
-```html
-<script>
-    (function(w,t,c,p,s,e){p=new Promise(function(r){w[c]={client:function(){if(!s){
-    s=document.createElement(t);s.src='https://js.cobrowse.io/CobrowseIO.js';s.async=1;
-    e=document.getElementsByTagName(t)[0];e.parentNode.insertBefore(s,e);s.onload=function()
-    {r(w[c]);};}return p;}};});})(window,'script','CobrowseIO');
-
-    CobrowseIO.license = "put your license key here";    
-    CobrowseIO.client().then(function(){
-        CobrowseIO.start();
-    });
-</script>
-```
+See the [installation documentation](https://docs.cobrowse.io/sdk-installation/web) to get started.
 
 ### Add your license key
 
