@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.16.6](#) (2022-09-22)
+
+
+### Bug Fixes
+
+* avoid double fetch on session decompression ([3229941](#))
+* base session token on static device token to avoid race condition ([259d105](#))
+* set session as current as soon as it's created ([7a3d2d4](#))
+* store token value directly in header ([b2a95a4](#))
+* synchronize agent join ([dc78c17](#))
+* **test:** intermittently failing test should be retried ([1141d56](#))
+
 ### [2.16.5](#) (2022-08-24)
 
 
