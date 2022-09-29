@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.16.7](#) (2022-09-29)
+
+
+### Bug Fixes
+
+* ensure redacted elements have flex-basis: unset ([#23](#)) ([6c1f068](#))
+
 ### [2.16.6](#) (2022-09-22)
 
 
