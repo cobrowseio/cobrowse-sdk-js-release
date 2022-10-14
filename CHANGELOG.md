@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.16.8](#) (2022-10-14)
+
+
+### Bug Fixes
+
+* catch null defaultView ([83e7c65](#))
+* fix case where nested iframes could cause an error when calling CobrowseIO.stop() ([5734a39](#))
+
 ### [2.16.7](#) (2022-09-29)
 
 
