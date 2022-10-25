@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.17.0](#) (2022-10-25)
+
+
+### Features
+
+* support cross-domain session forwarding over forms ([#27](#)) ([de9e35e](#))
+
 ### [2.16.8](#) (2022-10-14)
 
 
