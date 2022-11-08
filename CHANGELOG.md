@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.18.0](#) (2022-11-08)
+
+
+### Features
+
+* send head ahead of full document sync ([#30](#)) ([a28ba09](#))
+* support text selection ([#25](#)) ([852bd99](#))
+
+
+### Bug Fixes
+
+* change focus tests to reflect the updated implementation ([#33](#)) ([32269a8](#))
+* do not force a sync on connect ([#28](#)) ([1b168bf](#))
+* resend keyframe on change in frame source for running frame loops ([0f90e08](#))
+* send small keys before data for server partial decoding ([#34](#)) ([8a96bb9](#))
+* update DOMFrameSource tests ([#29](#)) ([2ed30f0](#))
+
 ## [2.17.0](#) (2022-10-25)
 
 
