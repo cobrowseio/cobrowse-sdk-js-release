@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.18.1](#) (2022-11-09)
+
+
+### Bug Fixes
+
+* send force sync on navigation ([#36](#)) ([68e0fa1](#))
+
 ## [2.18.0](#) (2022-11-08)
 
 
