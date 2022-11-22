@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.19.0](#) (2022-11-22)
+
+
+### Features
+
+* replace cbor-js with cbor-x ([#38](#)) ([4be704e](#))
+
+
+### Bug Fixes
+
+* better support for nested xdoc iframes ([ad83fd5](#))
+
 ### [2.18.1](#) (2022-11-09)
 
 
