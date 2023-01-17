@@ -2,7 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-### [2.20.1](#) (2023-01-05)
+## [2.21.0](#) (2023-01-17)
+
+
+### Features
+
+* Add support for Zendesk's new web widget ([#44](#)) ([46a4a18](#))
 
 
 ### Bug Fixes
