@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.21.1](#) (2023-01-19)
+
+
+### Bug Fixes
+
+* fix Safari issue caused by ShadowDOM tap ([2486544](#))
+
 ## [2.21.0](#) (2023-01-17)
 
 
