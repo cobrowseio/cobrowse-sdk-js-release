@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.21.2](#) (2023-01-20)
+
+
+### Bug Fixes
+
+* prevent session from being started if custom data is set before starting it (ie: register: false) ([#47](#)) ([86c768d](#))
+
 ### [2.21.1](#) (2023-01-19)
 
 
