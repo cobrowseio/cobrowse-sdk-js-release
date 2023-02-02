@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.22.0](#) (2023-02-02)
+
+
+### Features
+
+* Add support for configuring ignored views  ([#50](#)) ([6f82a34](#))
+* allow new sessions to preempt existing ones ([91b77e2](#))
+* handle text selections from the agent for both regular and input elements ([#49](#)) ([7c4fe3b](#))
+* support non-FQDN socket URLs ([d9b9eda](#))
+
+
+### Bug Fixes
+
+* cache full device frames for replay until next keyframe ([20520fc](#))
+* improve support for URLs with base paths ([a770c9c](#))
+
 ### [2.21.2](#) (2023-01-20)
 
 
