@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.22.4](#) (2023-02-06)
+
+
+### Bug Fixes
+
+* Allow pointermove events when cursor capability is forbidden ([#53](#)) ([4736518](#))
+
 ### [2.22.3](#) (2023-02-06)
 
 
