@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.22.3](#) (2023-02-06)
+
+
+### Bug Fixes
+
+* prevent processing shadow roots for non-compliant shadow root polyfills ([#52](#)) ([a8a7f50](#))
+
 ### [2.22.2](#) (2023-02-03)
 
 
