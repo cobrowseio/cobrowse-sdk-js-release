@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.22.5](#) (2023-02-21)
+
+
+### Bug Fixes
+
+* allow dynamic updates of server capabilities ([#54](#)) ([df783fb](#))
+* improve error handling of failed requests ([7ea7b78](#))
+* race conditions with closing sockets and add additional safeguards ([#57](#)) ([7b9cd37](#))
+* warn on usage of private API ([2713419](#))
+
 ### [2.22.4](#) (2023-02-06)
 
 
