@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.22.6](#) (2023-03-07)
+
+
+### Bug Fixes
+
+* Ensure Lightning components DOM updates get serialised correctly ([#60](#)) ([ae89fc5](#))
+* ensure redacted elements position is updated when parents change ([#24](#)) ([9756307](#))
+* patch cbor-x to avoid throwing an exception on browsers without support for BigInt typed arrays ([#63](#)) ([7b6b91c](#))
+* use a two image system for drawings to avoid flickering on Firefox ([#61](#)) ([323b170](#))
+
 ### [2.22.5](#) (2023-02-21)
 
 
