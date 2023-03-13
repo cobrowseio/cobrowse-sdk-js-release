@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.22.9](#) (2023-03-13)
+
+
+### Bug Fixes
+
+* Move patch-package from devDependencies to dependencies. ([#65](#)) ([b4f9768](#))
+
+### [2.22.8](#) (2023-03-08)
+
+
+### Bug Fixes
+
+* avoid double call to activate ([1ae9191](#))
+* Update repo URL to public release repo ([#64](#)) ([9e90c24](#))
+
 ### [2.22.7](#) (2023-03-08)
 
 ### [2.22.6](#) (2023-03-07)
