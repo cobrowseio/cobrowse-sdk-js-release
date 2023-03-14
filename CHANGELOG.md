@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.22.10](#) (2023-03-14)
+
+
+### Bug Fixes
+
+* better support for forwarding sessions storage based on link elements with nested content ([e51d783](#))
+
 ### [2.22.9](#) (2023-03-13)
 
 
