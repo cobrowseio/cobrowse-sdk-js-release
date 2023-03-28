@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.23.1](#) (2023-03-28)
+
+
+### Bug Fixes
+
+* workaround non-standard lighting component behaviours ([#69](#)) ([3d22422](#))
+
 ## [2.23.0](#) (2023-03-23)
 
 
