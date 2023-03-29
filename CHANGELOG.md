@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.23.2](#) (2023-03-29)
+
+
+### Bug Fixes
+
+* improve parsing of language codes ([8e128b0](#))
+
 ### [2.23.1](#) (2023-03-28)
 
 
