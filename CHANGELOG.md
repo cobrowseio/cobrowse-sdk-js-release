@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.23.3](#) (2023-04-05)
+
+
+### Bug Fixes
+
+* fix a race condition when watching for Zendesk messenger ([#74](#)) ([486bef7](#))
+
 ### [2.23.2](#) (2023-03-29)
 
 
