@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.23.5](#) (2023-04-06)
+
+
+### Bug Fixes
+
+* avoid appendChild issues with lightning components ([4b026cc](#))
+* fix race condition in zE initialisation ([#75](#)) ([255fc5a](#))
+
+### [2.23.4](#) (2023-04-05)
+
 ### [2.23.3](#) (2023-04-05)
 
 
