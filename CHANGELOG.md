@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.23.6](#) (2023-04-11)
+
+
+### Bug Fixes
+
+* fix crash caused by third party iframe updates ([6bf709a](#))
+
 ### [2.23.5](#) (2023-04-06)
 
 
