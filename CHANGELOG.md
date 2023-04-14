@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.23.7](#) (2023-04-14)
+
+
+### Bug Fixes
+
+* fix cross document iframes used inside shadow DOMs ([#76](#)) ([9daa61f](#))
+
 ### [2.23.6](#) (2023-04-11)
 
 
