@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.23.8](#) (2023-04-26)
+
+
+### Bug Fixes
+
+* allow delayed loading of snippet in xdoc iframes ([ad57158](#))
+* fix for edge case preventing xdoc iframes nested within non-xdoc iframes ([f28067a](#))
+
 ### [2.23.7](#) (2023-04-14)
 
 
