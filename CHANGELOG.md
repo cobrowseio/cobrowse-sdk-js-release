@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.24.0](#) (2023-05-01)
+
+
+### Features
+
+* add new CobrowseIO.registration api ([937ce22](#))
+
 ### [2.23.8](#) (2023-04-26)
 
 
