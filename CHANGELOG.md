@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.25.0](#) (2023-05-11)
+
+
+### Features
+
+* End Cobrowse session on Genesys chat ended ([#82](#)) ([32c95c3](#))
+
 ## [2.24.0](#) (2023-05-01)
 
 
