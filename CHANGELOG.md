@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.25.6](#) (2023-05-31)
+
+
+### Bug Fixes
+
+* **genesys:** Call updateUserData when chat window opens ([1a491ac](#))
+
 ### [2.25.5](#) (2023-05-31)
 
 ### [2.25.4](#) (2023-05-31)
