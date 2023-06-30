@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.26.0](#) (2023-06-30)
+
+
+### Features
+
+* Allow redaction and unredaction within iframes ([#88](#)) ([11f2841](#))
+
+
+### Bug Fixes
+
+* Changes on the user not reflected on the agent side until a mouse interaction ([#87](#)) ([6d1873e](#))
+* ensure innerHeight and innerWidth are used on mobile devices to cater for collapsing toolbars ([#89](#)) ([61c0884](#))
+
 ### [2.25.6](#) (2023-05-31)
 
 
