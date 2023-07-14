@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.27.0](#) (2023-07-14)
+
+
+### Features
+
+* respect video_codecs property for full device mode ([65cd6d7](#))
+
 ## [2.26.0](#) (2023-06-30)
 
 
