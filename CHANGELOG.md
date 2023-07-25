@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.28.0](#) (2023-07-25)
+
+
+### Features
+
+* improve monitoring of connection liveness ([9193025](#))
+
+
+### Bug Fixes
+
+* ensure we don't try to find the parent of a serialised node ([#95](#)) ([dbbd4fe](#))
+
 ## [2.27.0](#) (2023-07-14)
 
 
