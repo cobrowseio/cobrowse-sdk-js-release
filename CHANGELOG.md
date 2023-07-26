@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.28.1](#) (2023-07-26)
+
+
+### Bug Fixes
+
+* improve offline navigator detection ([89b159d](#))
+
 ## [2.28.0](#) (2023-07-25)
 
 
