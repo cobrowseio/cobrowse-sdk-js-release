@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.29.0](#) (2023-08-04)
+
+
+### Features
+
+* Add a device ID tag on Zendesk messenger integrations ([#98](#)) ([136e840](#))
+* Add more supported locales and RTL support ([#99](#)) ([d936ebb](#))
+* Swizzle Sunshine Conversations widget (Smooch) ([#97](#)) ([d64341f](#))
+
 ### [2.28.1](#) (2023-07-26)
 
 
