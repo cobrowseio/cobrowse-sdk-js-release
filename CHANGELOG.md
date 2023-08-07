@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.29.1](#) (2023-08-07)
+
+
+### Bug Fixes
+
+* Improve redaction performance ([7b82b25](#))
+
 ## [2.29.0](#) (2023-08-04)
 
 
