@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.29.2](#) (2023-08-14)
+
+
+### Bug Fixes
+
+* improve focus support ([#100](#)) ([980c690](#))
+
 ### [2.29.1](#) (2023-08-07)
 
 
