@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.29.3](#) (2023-08-23)
+
+
+### Bug Fixes
+
+* prevent full device consent from reprompting ([#102](#)) ([d02dd28](#))
+
 ### [2.29.2](#) (2023-08-14)
 
 
