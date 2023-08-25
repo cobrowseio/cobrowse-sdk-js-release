@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.29.4](#) (2023-08-25)
+
+
+### Bug Fixes
+
+* calculate iframe offsets on agent ([#101](#)) ([04d77bc](#))
+* calculate iframe offsets on agent ([#103](#)) ([3175b07](#))
+* print warning for likely invalid 6 digit code usage ([f7ccfc1](#))
+
 ### [2.29.3](#) (2023-08-23)
 
 
