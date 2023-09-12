@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.29.5](#) (2023-09-12)
+
+
+### Bug Fixes
+
+* call RedactionIndex defensively so it works on headless browsers with allowHeadless falsy ([#104](#)) ([753a41e](#))
+* use sdk capabilities when not available from the server ([#105](#)) ([cb3c157](#))
+
 ### [2.29.4](#) (2023-08-25)
 
 
