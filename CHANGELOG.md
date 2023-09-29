@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.30.0](#) (2023-09-29)
+
+
+### Features
+
+* add support for hover detection ([#92](#)) ([700b2a3](#))
+
 ### [2.29.6](#) (2023-09-22)
 
 ### [2.29.5](#) (2023-09-12)
