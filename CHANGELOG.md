@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.30.1](#) (2023-10-19)
+
+
+### Bug Fixes
+
+* fix remote control on some elements when using salesforce lightining components ([64ef802](#))
+
 ## [2.30.0](#) (2023-09-29)
 
 
