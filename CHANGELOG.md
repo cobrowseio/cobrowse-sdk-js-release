@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.31.0](#) (2023-12-01)
+
+
+### Features
+
+* integrate relaxed trusted origins ([#111](#)) ([deeba46](#))
+
+
+### Bug Fixes
+
+* always attempt to use the forwarding session storage ([#112](#)) ([a0ba7f3](#))
+* ensure we listen to events using the unpolyfilled addEventListener ([#110](#)) ([899e666](#))
+
 ### [2.30.2](#) (2023-11-06)
 
 ### [2.30.1](#) (2023-10-19)
