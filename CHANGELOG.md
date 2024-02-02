@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.31.1](#) (2024-02-02)
+
+
+### Bug Fixes
+
+* include missing dependencies ([#114](#)) ([fd49eb3](#))
+* register start option ([#115](#)) ([cd94bc2](#))
+
 ## [2.31.0](#) (2023-12-01)
 
 
