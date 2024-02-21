@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.31.2](#) (2024-02-21)
+
+
+### Bug Fixes
+
+* serialize document doctype ([#116](#)) ([a0d608e](#))
+
 ### [2.31.1](#) (2024-02-02)
 
 
