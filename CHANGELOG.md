@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.32.0](#) (2024-02-29)
+
+
+### Features
+
+* add support for built-in pdf cobrowsing ([46235ab](#))
+
 ### [2.31.2](#) (2024-02-21)
 
 
