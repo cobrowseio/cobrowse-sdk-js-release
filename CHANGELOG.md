@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.32.2](#) (2024-03-07)
+
+
+### Bug Fixes
+
+* prevent navigation handling when href and action is not defined ([#117](#)) ([7c1a60e](#))
+
 ### [2.32.1](#) (2024-02-29)
 
 ## [2.32.0](#) (2024-02-29)
