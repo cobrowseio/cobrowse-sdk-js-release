@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.32.3](#) (2024-03-13)
+
+
+### Bug Fixes
+
+* **zendesk:** check session storage as well as local storage ([#119](#)) ([2b2bef6](#))
+
 ### [2.32.2](#) (2024-03-07)
 
 
