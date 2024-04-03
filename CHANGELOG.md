@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.33.0](#) (2024-04-03)
+
+
+### Features
+
+* improve PDF Viewer resiliency ([#123](#)) ([a5ae912](#))
+
+
+### Bug Fixes
+
+* apply falsey settings from window ([#127](#)) ([b118909](#))
+* prevent proxying fragments ([#126](#)) ([c04894d](#))
+
 ### [2.32.4](#) (2024-03-25)
 
 
