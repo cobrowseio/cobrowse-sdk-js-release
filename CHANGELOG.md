@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.34.0](#) (2024-05-11)
+
+
+### Features
+
+* integrate universal proxy ([#118](#)) ([ce77225](#))
+* support active and focus pseudo selectors ([#134](#)) ([3af3a99](#))
+
+
+### Bug Fixes
+
+* close universal proxy on session end ([#132](#)) ([25f2504](#))
+* **iframe:** Allow child iframe to be seen when parent iframe is a child iframe itself ([#138](#)) ([f4f2b89](#))
+* prevent agent from interacting with consent dialog ([#129](#)) ([0acc835](#))
+* resolve proxy url against api url ([#133](#)) ([4aecff7](#))
+
 ## [2.33.0](#) (2024-04-03)
 
 
