@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.34.1](#) (2024-05-15)
+
+
+### Bug Fixes
+
+* improve canvas performance ([#137](#)) ([69b8f67](#))
+
 ## [2.34.0](#) (2024-05-11)
 
 
