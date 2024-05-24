@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.35.0](#) (2024-05-24)
+
+
+### Features
+
+* sync universal client version ([#142](#)) ([fa5ae0e](#))
+
+
+### Bug Fixes
+
+* improve canvas quality ([#141](#)) ([82662ee](#))
+
 ### [2.34.2](#) (2024-05-15)
 
 ### [2.34.1](#) (2024-05-15)
