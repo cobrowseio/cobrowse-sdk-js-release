@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.36.2](#) (2024-06-05)
+
+
+### Bug Fixes
+
+* invalidate frames on navigation after mutation observer has taken records ([#150](#)) ([ad08070](#))
+
 ### [2.36.1](#) (2024-06-05)
 
 ## [2.36.0](#) (2024-06-05)
