@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.36.0](#) (2024-06-05)
+
+
+### Features
+
+* add universal proxy toolbar ([#135](#)) ([c923ba1](#))
+* url targeted redaction ([#139](#)) ([a666da4](#))
+
+
+### Bug Fixes
+
+* ensure we have a session for allowIframeStart option ([#148](#)) ([bccb6e8](#))
+* only forward specific iframe events into children ([#146](#)) ([9e73dde](#))
+* prevent broadcast from sending to orphaned iframes ([#144](#)) ([b670a24](#))
+* prevent proxying javascript URLs ([#143](#)) ([6282ce7](#))
+* **ui:** tweak tab font ([ae6a3c8](#))
+* wait for full iframe content before serialising it's children (can cause compression errors otherwise) ([08ededc](#))
+
 ## [2.35.0](#) (2024-05-24)
 
 
