@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.36.3](#) (2024-06-06)
+
+
+### Bug Fixes
+
+* block integrity attribute ([#151](#)) ([86bc469](#))
+* rewrite target _top to universal cobrowse iframe name ([#152](#)) ([4bcd44c](#))
+
 ### [2.36.2](#) (2024-06-05)
 
 
