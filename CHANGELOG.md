@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.37.0](#) (2024-06-07)
+
+
+### Features
+
+* rewrite img srcset attribute ([#154](#)) ([7b58e53](#))
+
+
+### Bug Fixes
+
+* improve compression of xdoc iframe content ([984ea81](#))
+* tap get and set attribute ([#155](#)) ([791a1e8](#))
+
 ### [2.36.3](#) (2024-06-06)
 
 
