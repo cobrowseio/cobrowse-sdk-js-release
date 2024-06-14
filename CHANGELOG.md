@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.38.0](#) (2024-06-14)
+
+
+### Features
+
+* scope local and session storage by hostname ([#161](#)) ([156078b](#))
+
+
+### Bug Fixes
+
+* pass full URL into unproxify for message event swizzle ([#158](#)) ([89bb4f4](#))
+* prevent the asset proxy path from being used ([#157](#)) ([d17661d](#))
+* replace window origin references ([#160](#)) ([1d2be6a](#))
+
 ### [2.37.1](#) (2024-06-11)
 
 
