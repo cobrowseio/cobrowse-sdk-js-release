@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.39.0](#) (2024-06-18)
+
+
+### Features
+
+* add universal cobrowse capability ([#162](#)) ([6d14eb1](#))
+* scope and filter universal cobrowse cookies ([#159](#)) ([3399890](#))
+
+
+### Bug Fixes
+
+* only invalidateFrames when selectors change ([#163](#)) ([6cb83f1](#))
+* only tap attributes getter/setters if they exist ([6598fec](#))
+
 ## [2.38.0](#) (2024-06-14)
 
 
