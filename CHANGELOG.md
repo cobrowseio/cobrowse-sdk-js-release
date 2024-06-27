@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.39.1](#) (2024-06-27)
+
+
+### Bug Fixes
+
+* add Cobrowse button on webchatservice restore ([#167](#)) ([d028026](#))
+
 ## [2.39.0](#) (2024-06-18)
 
 
