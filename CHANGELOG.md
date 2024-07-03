@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.39.2](#) (2024-07-03)
+
+
+### Bug Fixes
+
+* wait for opened event to add cobrowse buttons ([#168](#)) ([d34d573](#))
+
 ### [2.39.1](#) (2024-06-27)
 
 
