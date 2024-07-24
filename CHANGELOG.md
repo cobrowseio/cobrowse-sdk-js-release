@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.40.0](#) (2024-07-24)
+
+
+### Features
+
+* limit universal cookies expiry ([#172](#)) ([fcba981](#))
+* rewrite source elements ([#178](#)) ([1b9fd49](#))
+
+
+### Bug Fixes
+
+* navigation tracking in reloaded same domain iframes ([#169](#)) ([2a9a7bb](#))
+* prevent integrity check on fetch patch ([#176](#)) ([c116109](#))
+* prevent universal and pdf links from being set after start ([#175](#)) ([0e8cd95](#))
+* redacted nodes should include the id ([#173](#)) ([db6282a](#))
+* rewrite location assign ([#180](#)) ([47ca856](#))
+* support relative URLs within universal navigation consent ([#170](#)) ([635deb7](#))
+* use capture for iframe load event ([#171](#)) ([6dd4f79](#))
+* use capture for navigation events ([#179](#)) ([0e0e6d7](#))
+
 ### [2.39.2](#) (2024-07-03)
 
 
