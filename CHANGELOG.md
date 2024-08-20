@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.41.0](#) (2024-08-20)
+
+
+### Features
+
+* support canvas quality attribute ([#185](#)) ([59b3155](#))
+
 ### [2.40.1](#) (2024-07-25)
 
 
