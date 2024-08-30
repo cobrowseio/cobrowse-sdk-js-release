@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.42.1](#) (2024-08-30)
+
+
+### Bug Fixes
+
+* append origin to universal proxy request ([#198](#)) ([82b3808](#))
+* throttle location proxy href setter ([#197](#)) ([9966f87](#))
+
 ## [2.42.0](#) (2024-08-30)
 
 
