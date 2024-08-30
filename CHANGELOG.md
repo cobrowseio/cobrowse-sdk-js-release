@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.42.0](#) (2024-08-30)
+
+
+### Features
+
+* check for open tabs before unload ([#187](#)) ([e2cfb12](#))
+* handle navigation changes within universal proxy ([#166](#)) ([be0c575](#))
+
+
+### Bug Fixes
+
+* add reload to location proxy object ([#195](#)) ([2ca45e3](#))
+* assign href in location proxy ([#191](#)) ([28961cc](#))
+* check default prevented on navigation tracking ([#193](#)) ([8ab027e](#))
+* force img overlay visibility ([41c742a](#))
+* prevent confirmation if navigation is not allowed ([#189](#)) ([22cb09f](#))
+* resolve setter context correctly ([#192](#)) ([40e7a25](#))
+* resolve universal favicon against page ([#194](#)) ([8f4a83b](#))
+* tweak default tab styling ([bd163b5](#))
+
 ## [2.41.0](#) (2024-08-20)
 
 
