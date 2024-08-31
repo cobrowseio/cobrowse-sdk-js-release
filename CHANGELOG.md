@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.42.2](#) (2024-08-31)
+
+
+### Bug Fixes
+
+* support ancestorOrigins in location proxy object ([#199](#)) ([04c4206](#))
+
 ### [2.42.1](#) (2024-08-30)
 
 
