@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.42.5](#) (2024-09-04)
+
+
+### Bug Fixes
+
+* accumulated redacted views ([#204](#)) ([f7f25a2](#))
+* set view of form submission tap ([#203](#)) ([bcc09d3](#))
+
 ### [2.42.4](#) (2024-09-02)
 
 
