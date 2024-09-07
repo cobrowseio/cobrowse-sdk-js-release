@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.42.6](#) (2024-09-07)
+
+
+### Bug Fixes
+
+* blocked target blank navigations ([#208](#)) ([fe8d1a4](#))
+* handle slow loading iframes ([55e4bd8](#))
+* only send loading when target is self ([#207](#)) ([834595a](#))
+* optimise doc iframe sync ([#205](#)) ([8124392](#))
+* unsubscribe bridge events on stop ([53e930c](#))
+* use value in getter accessor ([#206](#)) ([c0f90b8](#))
+
 ### [2.42.5](#) (2024-09-04)
 
 
