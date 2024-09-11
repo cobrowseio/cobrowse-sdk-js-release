@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.43.1](#) (2024-09-11)
+
+
+### Bug Fixes
+
+* revert element patch ([251856a](#))
+
 ## [2.43.0](#) (2024-09-11)
 
 
