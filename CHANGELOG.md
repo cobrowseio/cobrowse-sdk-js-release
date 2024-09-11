@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.43.0](#) (2024-09-11)
+
+
+### Features
+
+* add cbioImporter for parsing module imports ([#209](#)) ([f4488e9](#))
+* support session unredaction selectors ([#210](#)) ([335962f](#))
+
+
+### Bug Fixes
+
+* swizzle innerHTML setter in universal cobrowse ([#211](#)) ([c10dcd4](#))
+
 ### [2.42.6](#) (2024-09-07)
 
 
