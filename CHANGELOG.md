@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.43.2](#) (2024-09-14)
+
+
+### Bug Fixes
+
+* return value in setter ([#216](#)) ([6640f56](#))
+
 ### [2.43.1](#) (2024-09-11)
 
 
