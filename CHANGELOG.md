@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.44.0](#) (2024-09-21)
+
+
+### Features
+
+* basic web worker rewriting ([#226](#)) ([d641d7f](#))
+* patch FontFace  constructor ([#224](#)) ([5a4966f](#))
+
+
+### Bug Fixes
+
+* innerHTML patch ([#222](#)) ([6125745](#))
+* move query param stripping into handlers ([#223](#)) ([dcd8bab](#))
+* move responsibility for tracking parent origins to iframe bridge logic ([#217](#)) ([3919c00](#))
+* only proxy http and https protocols ([#225](#)) ([d464ed0](#))
+
 ### [2.43.2](#) (2024-09-14)
 
 
