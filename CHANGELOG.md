@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.44.1](#) (2024-09-25)
+
+
+### Bug Fixes
+
+* allow intercepting navigation events in capture phase for some navigation types ([#232](#)) ([36d005c](#))
+* patch insertAdjacentHTML ([#230](#)) ([3f12282](#))
+* patch meta element ([#229](#)) ([5a83ff4](#))
+* support WebAuthn within our iframe ([#231](#)) ([bd2bb26](#))
+
 ## [2.44.0](#) (2024-09-21)
 
 
