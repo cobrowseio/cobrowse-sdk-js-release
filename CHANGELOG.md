@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.45.0](#) (2024-10-11)
+
+
+### Features
+
+* add support for multiple agent annotations ([#238](#)) ([17deaef](#))
+* Annotation changes including updated laser pointer and support for multiple drawings ([#234](#)) ([1e505f3](#))
+* session errors ([#241](#)) ([0fb96b1](#))
+* use the ripples for the remote cursor and update its cursor ([#237](#)) ([451df17](#))
+
+
+### Bug Fixes
+
+* Annotation tool improvements ([#239](#)) ([a955b48](#))
+* parse JS in universal client ([#235](#)) ([f891aea](#))
+* remove uneeded null handling for the remote cursor position ([#240](#)) ([17556f4](#))
+* rewrite style text node ([#236](#)) ([cae4620](#))
+* update Freshchat swizzling ([#242](#)) ([1cf13dd](#))
+
 ### [2.44.1](#) (2024-09-25)
 
 
