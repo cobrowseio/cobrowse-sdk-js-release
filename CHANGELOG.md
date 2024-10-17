@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.46.0](#) (2024-10-17)
+
+
+### Features
+
+* Nice CX integration support ([#233](#)) ([78bb2d2](#))
+
+
+### Bug Fixes
+
+* change cookie name separator ([#243](#)) ([cd30105](#))
+* reset universal cobrowse history ([#245](#)) ([d8f551c](#))
+* support document location setter ([#247](#)) ([f98ef06](#))
+
 ## [2.45.0](#) (2024-10-11)
 
 
