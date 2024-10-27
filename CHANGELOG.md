@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.0.0](#) (2024-10-27)
+
+
+### ⚠ BREAKING CHANGES
+
+* This version drops support for Cobrowse API server versions below 1.63.3. No public APIs have been changed.
+
+### Features
+
+* use websocket protocol based token auth ([c2763da](#))
+
+
+### Bug Fixes
+
+* expire storage items ([#249](#)) ([b95f5c6](#))
+* improve storage swizzling ([#250](#)) ([9b6f174](#))
+* remove unused origin param from session xdoc bridge ([d94b105](#))
+* rewrite object data attribute ([#248](#)) ([bb9a22a](#))
+
 ## [2.46.0](#) (2024-10-17)
 
 
