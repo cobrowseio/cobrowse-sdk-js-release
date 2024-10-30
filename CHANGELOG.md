@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.0.1](#) (2024-10-30)
+
+
+### Bug Fixes
+
+* delayed shadow attachment ([#251](#)) ([509f400](#))
+* patch document properties ([#254](#)) ([0655298](#))
+* remove unused accessor this parameter ([#253](#)) ([7177b0a](#))
+* rewrite dynamic js ([#257](#)) ([0cb6d1a](#))
+* storage patch property descriptor ([#255](#)) ([cd27413](#))
+
 ## [3.0.0](#) (2024-10-27)
 
 
