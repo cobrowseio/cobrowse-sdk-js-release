@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.1.0](#) (2024-11-09)
+
+
+### Features
+
+* Add TypeScript declarations ([#259](#)) ([16ecccf](#))
+
 ### [3.0.3](#) (2024-11-01)
 
 
