@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.47.3](#) (2024-12-03)
+
+
+### Bug Fixes
+
+* duplicate evaluation in cbioGetter ([#266](#)) ([359b01b](#))
+
 ### [2.47.2](#) (2024-12-01)
 
 
