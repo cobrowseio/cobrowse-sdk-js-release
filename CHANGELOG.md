@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.48.2](#) (2024-12-10)
+
+
+### Bug Fixes
+
+* debounce native select to prevent accidental selection ([#269](#)) ([53f868e](#))
+* redaction on native select ([#271](#)) ([19fd913](#))
+* set z-index on native select ([#270](#)) ([76fd5a1](#))
+
 ### [2.48.1](#) (2024-12-10)
 
 ## [2.48.0](#) (2024-12-10)
