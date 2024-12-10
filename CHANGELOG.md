@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.48.0](#) (2024-12-10)
+
+
+### Features
+
+* improve support for native select elements ([#267](#)) ([9aeabc1](#))
+
 ### [2.47.3](#) (2024-12-03)
 
 
