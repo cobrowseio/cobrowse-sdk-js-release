@@ -2,64 +2,82 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-### [2.48.2](#) (2024-12-10)
+### [3.2.1](#) (2024-12-10)
 
 
 ### Bug Fixes
 
-* debounce native select to prevent accidental selection ([#269](#)) ([53f868e](#))
-* redaction on native select ([#271](#)) ([19fd913](#))
-* set z-index on native select ([#270](#)) ([76fd5a1](#))
+* debounce native select to prevent accidental selection ([#269](#)) ([ce3383c](#))
+* only respond to left clicks on native select ([#272](#)) ([d430215](#))
+* redaction on native select ([#271](#)) ([eeb3524](#))
+* set z-index on native select ([#270](#)) ([8210ce9](#))
 
-### [2.48.1](#) (2024-12-10)
-
-## [2.48.0](#) (2024-12-10)
+## [3.2.0](#) (2024-12-10)
 
 
 ### Features
 
-* improve support for native select elements ([#267](#)) ([9aeabc1](#))
-
-### [2.47.3](#) (2024-12-03)
+* improve support for native select elements ([#267](#)) ([101c00a](#))
 
 
 ### Bug Fixes
 
-* duplicate evaluation in cbioGetter ([#266](#)) ([359b01b](#))
+* allow clicking through the remote cursor element ([#265](#)) ([bb9802b](#))
+* duplicate evaluation in cbioGetter ([#266](#)) ([d4fffcd](#))
+* fix watcher when the Zendesk widget loads after our SDK ([#263](#)) ([d921dcb](#))
+* handle eval expressions ([1911991](#))
 
-### [2.47.2](#) (2024-12-01)
-
-
-### Bug Fixes
-
-* handle eval expressions ([71619e1](#))
-
-### [2.47.1](#) (2024-11-27)
-
-## [2.47.0](#) (2024-11-22)
+## [3.1.0](#) (2024-11-09)
 
 
 ### Features
 
-* Add TypeScript declarations ([#259](#)) ([5da9427](#))
+* Add TypeScript declarations ([#259](#)) ([16ecccf](#))
+
+### [3.0.3](#) (2024-11-01)
 
 
 ### Bug Fixes
 
-* allow clicking through the remote cursor element ([#265](#)) ([e85c1ba](#))
-* delayed shadow attachment ([#251](#)) ([7ff2c9c](#))
+* rewrite js global return ([#260](#)) ([653dbe6](#))
+* rewrite js text content ([#261](#)) ([e5e4a40](#))
+
+### [3.0.2](#) (2024-10-30)
+
+
+### Bug Fixes
+
+* remove iife wrapper on eval ([#258](#)) ([46d5b13](#))
+
+### [3.0.1](#) (2024-10-30)
+
+
+### Bug Fixes
+
+* delayed shadow attachment ([#251](#)) ([509f400](#))
+* patch document properties ([#254](#)) ([0655298](#))
+* remove unused accessor this parameter ([#253](#)) ([7177b0a](#))
+* rewrite dynamic js ([#257](#)) ([0cb6d1a](#))
+* storage patch property descriptor ([#255](#)) ([cd27413](#))
+
+## [3.0.0](#) (2024-10-27)
+
+
+### ⚠ BREAKING CHANGES
+
+* This version drops support for Cobrowse API server versions below 1.63.3. No public APIs have been changed.
+
+### Features
+
+* use websocket protocol based token auth ([c2763da](#))
+
+
+### Bug Fixes
+
 * expire storage items ([#249](#)) ([b95f5c6](#))
-* fix watcher when the Zendesk widget loads after our SDK ([#263](#)) ([7c6ac23](#))
 * improve storage swizzling ([#250](#)) ([9b6f174](#))
-* patch document properties ([#254](#)) ([a6b8dd6](#))
-* remove iife wrapper on eval ([#258](#)) ([8af16a2](#))
-* remove unused accessor this parameter ([#253](#)) ([afb8178](#))
 * remove unused origin param from session xdoc bridge ([d94b105](#))
-* rewrite dynamic js ([#257](#)) ([321c9e2](#))
-* rewrite js global return ([#260](#)) ([7b5226d](#))
-* rewrite js text content ([#261](#)) ([231df43](#))
 * rewrite object data attribute ([#248](#)) ([bb9a22a](#))
-* storage patch property descriptor ([#255](#)) ([75493a4](#))
 
 ## [2.46.0](#) (2024-10-17)
 
