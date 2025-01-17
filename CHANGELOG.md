@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.2.2](#) (2025-01-17)
+
+
+### Bug Fixes
+
+* apply the button check to mouse down in native select ([#274](#)) ([e49b6fc](#))
+* don't set Content-Type headers on outgoing GET requests ([b0e06d3](#))
+* fix docker build warnings ([6a4d787](#))
+* patch document write ([#276](#)) ([1afa0e7](#))
+* prevent wrapper from applying on variable name ([#279](#)) ([48b85a5](#))
+
 ### [3.2.1](#) (2024-12-10)
 
 
