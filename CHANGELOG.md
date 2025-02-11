@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.2.5](#) (2025-02-11)
+
+
+### Bug Fixes
+
+* don't serialize scroll on the html element ([#286](#)) ([5029273](#))
+* rewrite background urls set on inline styles ([#287](#)) ([fac9656](#))
+
 ### [3.2.4](#) (2025-01-27)
 
 
