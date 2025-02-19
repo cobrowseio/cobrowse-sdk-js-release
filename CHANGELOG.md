@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.3.0](#) (2025-02-19)
+
+
+### Features
+
+* add support for arrow and rectangle drawings ([#289](#)) ([1919342](#))
+
 ### [3.2.5](#) (2025-02-11)
 
 
