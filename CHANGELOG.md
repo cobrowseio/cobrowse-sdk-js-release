@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.3.6](#) (2025-05-14)
+
+
+### Bug Fixes
+
+* ensure we require the correct capabilities based on the input type ([#305](#)) ([6c4d473](#))
+* ensure we select all options selected on the agent side ([9f937c0](#))
+* Expose types declaration file ([#303](#)) ([9b6076f](#))
+* fix a crash when setting ignoredViews to an empty array ([#308](#)) ([d0f2b26](#))
+* prevent frame invalidation on every navigation ([#304](#)) ([862751f](#))
+* serialize adopted styles on document ([#302](#)) ([30fba35](#))
+
 ### [3.3.5](#) (2025-04-04)
 
 
