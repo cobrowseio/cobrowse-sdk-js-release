@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.4.1](#) (2025-06-06)
+
+
+### Bug Fixes
+
+* **dynamics:** avoid race conditions, watch window.Microsoft.... ([#315](#)) ([596cd3f](#))
+
+## [3.4.0](#) (2025-06-05)
+
+
+### Features
+
+* Add Genesys messaging support ([#311](#)) ([74732ea](#))
+* **dynamics:** add cobrowse device id to the chat context ([#312](#)) ([fac4c26](#))
+* session quality monitoring ([#313](#)) ([7959a43](#))
+
 ### [3.3.7](#) (2025-05-19)
 
 
