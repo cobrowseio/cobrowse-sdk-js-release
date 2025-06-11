@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.4.2](#) (2025-06-11)
+
+
+### Bug Fixes
+
+* invalidate frame sync ([#317](#)) ([ac7c196](#))
+
 ### [3.4.1](#) (2025-06-06)
 
 
