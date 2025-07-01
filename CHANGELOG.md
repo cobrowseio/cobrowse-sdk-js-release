@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.4.3](#) (2025-07-01)
+
+
+### Bug Fixes
+
+* let the user share the current tab in full device mode ([#318](#)) ([7e92fcf](#))
+* prevent viewport scaling ([#320](#)) ([b882a88](#))
+* safely reset compression and patch stream ([#321](#)) ([821b774](#))
+
 ### [3.4.2](#) (2025-06-11)
 
 
