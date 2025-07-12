@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.5.0](#) (2025-07-12)
+
+
+### Features
+
+* **salesforce:** Enhanced messaging support ([#324](#)) ([11cff97](#))
+* support servicenow ([#325](#)) ([4bb800e](#))
+* Update default UI styles ([#323](#)) ([f603f41](#))
+
+
+### Bug Fixes
+
+* prevent error when radio group has no name ([#328](#)) ([7aad842](#))
+* Prevent style leakage on UI elements ([#326](#)) ([7e075d1](#))
+* tweak consent UI styles ([#330](#)) ([9e9614e](#))
+* watch webGL2 canvas elements for changes ([#327](#)) ([2409988](#))
+
 ### [3.4.3](#) (2025-07-01)
 
 
