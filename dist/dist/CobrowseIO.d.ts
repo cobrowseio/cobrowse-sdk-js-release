@@ -1,6 +1,6 @@
 import type { EventEmitter } from 'events'
 
-type Metrics = { last_alive: Date | null }
+type Metrics = { last_alive: Date | null, latency: number | null }
 type SessionState = 'active' | 'authorizing' | 'pending' | 'ended'
 type DeviceControlState = 'on' | 'off' | 'requested' | 'rejected'
 

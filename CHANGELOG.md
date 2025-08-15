@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.5.1](#) (2025-08-15)
+
+
+### Bug Fixes
+
+* delete srcset when serialising content of image ([#341](#)) ([5fe9b6b](#))
+* update consent UI styles ([#332](#)) ([ac43d6f](#))
+
 ## [3.5.0](#) (2025-07-12)
 
 
