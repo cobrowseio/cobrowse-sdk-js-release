@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.6.0](#) (2025-08-18)
+
+
+### Features
+
+* talkdesk swizzling ([#338](#)) ([4b53758](#))
+
 ### [3.5.1](#) (2025-08-15)
 
 
