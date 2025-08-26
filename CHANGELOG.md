@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.7.0](#) (2025-08-26)
+
+
+### Features
+
+* **sessions:** support element highlighting ([f307730](#))
+
+
+### Bug Fixes
+
+* **nice:** watch window.cxone.guide to trigger integration ([#343](#)) ([92ec7ea](#))
+
 ## [3.6.0](#) (2025-08-18)
 
 
