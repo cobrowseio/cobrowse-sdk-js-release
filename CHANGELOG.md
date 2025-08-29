@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.8.0](#) (2025-08-29)
+
+
+### Features
+
+* track change and click events ([#344](#)) ([8a9b5b3](#))
+
 ## [3.7.0](#) (2025-08-26)
 
 
