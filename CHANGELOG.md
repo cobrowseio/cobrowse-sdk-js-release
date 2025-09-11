@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.9.0](#) (2025-09-11)
+
+
+### Features
+
+* support for voice and video ([#282](#)) ([77e12ca](#))
+
+
+### Bug Fixes
+
+* calling translation casing ([#348](#)) ([199c139](#))
+* hide calling controls on session end ([#345](#)) ([19e32f9](#))
+* include z-index on redacted elements ([#351](#)) ([f8e3406](#))
+* input getSelection warning ([#355](#)) ([2be00f1](#))
+* remote-error target property type ([#347](#)) ([d2fe544](#))
+
 ## [3.8.0](#) (2025-08-29)
 
 
