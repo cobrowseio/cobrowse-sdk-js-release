@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.9.1](#) (2025-09-12)
+
+
+### Bug Fixes
+
+* include body in fetch patch when using request object ([#357](#)) ([7004844](#))
+* mount native select after target ([#359](#)) ([adbf92e](#))
+* prevent get or set attribute on blocked properties ([#358](#)) ([bc80713](#))
+
 ## [3.9.0](#) (2025-09-11)
 
 
