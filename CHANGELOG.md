@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.10.0](#) (2025-09-17)
+
+
+### Features
+
+* store session ID in Intercom ([#360](#)) ([7ab3b31](#))
+
+
+### Bug Fixes
+
+* include all settled polyfill ([#363](#)) ([f1bc843](#))
+
 ### [3.9.1](#) (2025-09-12)
 
 
