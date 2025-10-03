@@ -3,6 +3,7 @@ import type { EventEmitter } from 'events'
 type Metrics = { last_alive: Date | null, latency: number | null }
 type SessionState = 'active' | 'authorizing' | 'pending' | 'ended'
 type DeviceControlState = 'on' | 'off' | 'requested' | 'rejected'
+type EndedReason = 'device_ended' | 'agent_ended' | 'pending_timeout' | 'authorizing_timeout' | 'active_timeout' | 'limit_enforcement'
 
 interface Session {
   readonly capabilities: string[]
@@ -18,6 +19,8 @@ interface Session {
 
   activate(): Promise<this>
   end(): Promise<this>
+
+  endedReason(): EndedReason | undefined
 
   redactionSelectors(): string[]
   unredactionSelectors(): string[]

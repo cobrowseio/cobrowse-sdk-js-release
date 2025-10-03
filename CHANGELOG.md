@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.11.0](#) (2025-10-03)
+
+
+### Features
+
+* expose ended_reason on Session ([#368](#)) ([3deacda](#))
+* highlightElement delegate can be a promise ([#362](#)) ([0fc4922](#))
+
+
+### Bug Fixes
+
+* handle forms that have inputs called 'action' ([#367](#)) ([3145b9a](#))
+
 ## [3.10.0](#) (2025-09-17)
 
 
