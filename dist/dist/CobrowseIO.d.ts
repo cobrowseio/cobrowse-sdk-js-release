@@ -49,6 +49,7 @@ export declare class CobrowseIO extends EventEmitter {
   pdfLinks: (string | RegExp)[]
   capabilities: string[]
   registration: boolean
+  virtualAgent?: boolean
 
   start(options?: { allowIFrameStart?: boolean }): Promise<CobrowseIO>
   stop(): Promise<CobrowseIO>

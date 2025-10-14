@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.12.0](#) (2025-10-14)
+
+
+### Features
+
+* add elevenlabs virtual agent ([#356](#)) ([2a8f235](#))
+
+
+### Bug Fixes
+
+* preserve relative URLs in anchor tags ([#370](#)) ([5a3899d](#))
+
 ## [3.11.0](#) (2025-10-03)
 
 
