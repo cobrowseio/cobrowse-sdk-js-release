@@ -32,6 +32,12 @@ interface Session {
 
   remoteControl(): DeviceControlState
   setRemoteControl(state: DeviceControlState): Promise<this>
+
+  created: Date
+  expires: Date
+  activated: Date | null
+  updated: Date | null
+  ended: Date | null
 }
 
 export declare class CobrowseIO extends EventEmitter {
@@ -49,7 +55,7 @@ export declare class CobrowseIO extends EventEmitter {
   pdfLinks: (string | RegExp)[]
   capabilities: string[]
   registration: boolean
-  virtualAgent?: boolean
+  virtualAgent: string | undefined
 
   start(options?: { allowIFrameStart?: boolean }): Promise<CobrowseIO>
   stop(): Promise<CobrowseIO>
