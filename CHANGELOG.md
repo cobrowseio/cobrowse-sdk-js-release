@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.13.1](#) (2025-10-31)
+
+
+### Bug Fixes
+
+* avoid redacting children of a redacted and unredacted node ([#380](#)) ([d675d84](#))
+* disable css minification ([#386](#)) ([b046bff](#))
+* unredaction takes precedence on conflict ([#384](#)) ([34f4fb7](#))
+
 ## [3.13.0](#) (2025-10-22)
 
 
