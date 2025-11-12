@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.14.0](#) (2025-11-12)
+
+
+### Features
+
+* **highlight:** wait for navigation and network to stabilise ([#377](#)) ([49798be](#))
+
+
+### Bug Fixes
+
+* **ai:** highlight updates should not trigger widget changes when guided over the phone ([#388](#)) ([429c51b](#))
+* restore CSS minification ([#387](#)) ([9d3f183](#))
+
 ### [3.13.1](#) (2025-10-31)
 
 
