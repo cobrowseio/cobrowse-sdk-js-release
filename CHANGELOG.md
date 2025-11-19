@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.15.0](#) (2025-11-19)
+
+
+### Features
+
+* expose location on window proxy ([#391](#)) ([1d1315d](#))
+
+
+### Bug Fixes
+
+* **serializer:** only mark node as hidden when its parent is not hidden ([#392](#)) ([69be1f6](#))
+
 ## [3.14.0](#) (2025-11-12)
 
 
