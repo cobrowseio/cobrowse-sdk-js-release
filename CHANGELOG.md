@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.16.0](#) (2025-12-05)
+
+
+### Bug Fixes
+
+* Add node scheduler ([#403](#)) ([ed15b3a](#))
+* ignore special attributes when serializing ([#404](#)) ([5e7c4da](#))
+* let api override cobrowse_device_id ([#397](#)) ([4fbd0fc](#))
+* remove optimisation that prevents head reserialization ([#418](#)) ([4b41b44](#))
+* support create-react-app vanilla webpack builds ([#420](#)) ([af3149d](#))
+* vdom optimisations for large DOMs with frequent updates ([#406](#)) ([f6de93e](#))
+* wrap name in quotes in query selector ([#401](#)) ([caf4cad](#))
+
 ## [3.15.0](#) (2025-11-19)
 
 
