@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.16.1](#) (2025-12-10)
+
+
+### Bug Fixes
+
+* support older browsers ([#423](#)) ([4cf52b6](#))
+
 ## [3.16.0](#) (2025-12-05)
 
 
