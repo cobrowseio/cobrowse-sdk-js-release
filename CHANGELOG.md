@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.16.2](#) (2025-12-17)
+
+
+### Bug Fixes
+
+* **ai:** ignore untrusted clicks ([#427](#)) ([5644e97](#))
+* highlight the parent if the element is zero width/height ([#412](#)) ([e6d4dab](#))
+* **universal-client:** patch Request constructor to proxify url ([#426](#)) ([81aceb2](#))
+
 ### [3.16.1](#) (2025-12-10)
 
 
