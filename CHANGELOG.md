@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.17.0](#) (2026-01-09)
+
+
+### Features
+
+* close session when genesys messenger closes ([#431](#)) ([683f4d4](#))
+
+
+### Bug Fixes
+
+* don't consider aria-hidden=true as a hidden node ([#434](#)) ([1361bc0](#))
+* wait for image to be ready before serializing ([#435](#)) ([098734d](#))
+
 ### [3.16.2](#) (2025-12-17)
 
 
