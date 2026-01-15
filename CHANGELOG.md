@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.18.0](#) (2026-01-15)
+
+
+### Features
+
+* emit debounced input events ([#440](#)) ([022bf61](#))
+* end session when Genesys conversation ends ([#444](#)) ([4a76902](#))
+
+
+### Bug Fixes
+
+* prevent patching or unpatching non script elements ([#438](#)) ([3c12ffb](#))
+* prevent rewrite of worker postMessage args ([#437](#)) ([9b87c1d](#))
+* safely check for worker on cross origin window ([#443](#)) ([bd1cfc2](#))
+
 ## [3.17.0](#) (2026-01-09)
 
 
