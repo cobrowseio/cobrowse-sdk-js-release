@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.19.0](#) (2026-01-26)
+
+
+### Features
+
+* add support for glob based trustedOrigins and cookie based session storage to improve subdomain session continuation support ([#448](#)) ([0c532eb](#))
+* **amazonconnect:** add deviceId in customData ([#442](#)) ([e42e106](#))
+
 ## [3.18.0](#) (2026-01-15)
 
 

@@ -50,7 +50,7 @@ export declare class CobrowseIO extends EventEmitter {
   unredactedViews: string[]
   ignoredViews: string[]
   currentSession: Session | null
-  trustedOrigins: string[]
+  trustedOrigins: (string | RegExp)[]
   universalLinks: (string | RegExp)[]
   pdfLinks: (string | RegExp)[]
   capabilities: string[]
