@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.19.1](#) (2026-01-28)
+
+
+### Bug Fixes
+
+* do not emit interaction events on ignored nodes ([#457](#)) ([bf2996b](#))
+* prevent usage of destroyed NodeScheduler ([#456](#)) ([ab9bcfd](#))
+
 ## [3.19.0](#) (2026-01-26)
 
 
