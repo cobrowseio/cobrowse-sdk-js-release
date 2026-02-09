@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.19.3](#) (2026-02-09)
+
+
+### Bug Fixes
+
+* only update registration on change ([d01c424](#))
+
 ### [3.19.2](#) (2026-02-09)
 
 
