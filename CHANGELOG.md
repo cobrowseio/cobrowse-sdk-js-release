@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.19.2](#) (2026-02-09)
+
+
+### Bug Fixes
+
+* allow setting registration when the SDK is already started ([#465](#)) ([77afc09](#))
+* change how target value is updated on input events ([#459](#)) ([16cde19](#))
+* include cross domain storage methods in currentSession determination, fix cross-domain indicator flash ([#463](#)) ([dfd69fd](#))
+* prevent rewrite of script elements without javascript ([#464](#)) ([d969b4c](#))
+* upgrade to node 24 ([85aa170](#))
+
 ### [3.19.1](#) (2026-01-28)
 
 
