@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.20.0](#) (2026-02-18)
+
+
+### Features
+
+* serialize interactive property to indicate interaction semantics ([#446](#)) ([b4cbdfa](#))
+
+
+### Bug Fixes
+
+* fix registration debouncing ([#469](#)) ([d83f68f](#))
+* **highlight:** await highlight status from each child frame ([#466](#)) ([33afedc](#))
+* **highlight:** ensure highlight is included in session recording but ignored by VA ([#472](#)) ([ead6ddc](#))
+
 ### [3.19.4](#) (2026-02-09)
 
 ### [3.19.3](#) (2026-02-09)
