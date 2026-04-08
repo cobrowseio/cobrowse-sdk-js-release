@@ -160,6 +160,12 @@
   white-space: nowrap;
 }
 
+.Button-module__base___PvaYv:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+  pointer-events: none;
+}
+
 .Button-module__primary___jyGbF {
   background-color: var(--cbio-color-accent-primary);
   color: var(--cbio-color-text-light);
@@ -285,58 +291,6 @@
   height: 24px;
 }
 
-.SessionStateOverlay-module__callingControlsContainer___UYdU1 {
-  border-radius: var(--cbio-radius-md);
-  color: var(--cbio-color-text-light);
-  box-shadow: var(--cbio-shadow-buttons);
-  display: flex;
-  overflow: hidden;
-}
-
-.SessionStateOverlay-module__callingControlsToggleContainer___jmNM6 {
-  background-color: #292841;
-  padding: 10px 12px;
-  display: flex;
-  align-items: center;
-  gap: 10px;
-}
-
-.SessionStateOverlay-module__callingControlsToggle___ry4m0 {
-  width: 24px;
-  height: 24px;
-}
-
-.SessionStateOverlay-module__callingControlsToggleOff___jxwB4 {
-  color: #EF4444;
-}
-
-.SessionStateOverlay-module__callingControlsToggleOff___jxwB4:hover {
-  color: var(--cbio-color-danger-hover-soft);
-}
-
-.SessionStateOverlay-module__callingControlsToggleOn___FUuRG {
-  color: var(--cbio-color-text-light);
-}
-
-.SessionStateOverlay-module__callingControlsToggleOn___FUuRG:hover {
-  color: var(--cbio-color-border);
-}
-
-.SessionStateOverlay-module__callingControlsIcon___OWYpc {
-  width: 24px;
-  height: 24px;
-}
-
-.SessionStateOverlay-module__callingControlsEnd___t4Xky {
-  background-color: var(--cbio-color-danger) !important;
-  height: 100%;
-  width: 44px;
-}
-
-.SessionStateOverlay-module__callingControlsEnd___t4Xky:hover {
-  background-color: var(--cbio-color-danger-hover) !important;
-}
-
 .ConsentDialog-module__content___fUfL3 {
   max-width: 400px;
 }
@@ -374,12 +328,162 @@
   gap: 8px;
 }
 
+.CallDialog-module__content___s6HK_ {
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+}
+
+.CallDialog-module__header___VRuIx {
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+}
+
+.CallDialog-module__media___oMk0K {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.CallDialog-module__body___udSXs {
+  display: flex;
+  flex-direction: column;
+  font-size: var(--cbio-font-size-md);
+  line-height: var(--cbio-line-height-md);
+  color: var(--cbio-color-text-muted);
+  margin-top: 8px;
+}
+
+.CallDialog-module__title___ZCk6c {
+  color: var(--cbio-color-text-primary);
+  font-size: var(--cbio-font-size-lg);
+  font-weight: 700;
+  line-height: var(--cbio-line-height-lg);
+  margin: 0;
+}
+
+.CallDialog-module__description___IrOYd {
+  margin: 0;
+}
+
+.CallDialog-module__buttonContainer___qeBlR {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+  margin-top: 35px;
+}
+
+.MediaPreview-module__previewContainer___hZF98 {
+  position: relative;
+}
+
+.MediaPreview-module__videoContainer____O8KD {
+  width: 100%;
+  height: 100%;
+  aspect-ratio: 16/9;
+  border-radius: var(--cbio-radius-md);
+  overflow: hidden;
+  position: relative;
+}
+
+.MediaPreview-module__video___DnVpX {
+  width: 100%;
+  height: 100%;
+  transform: scaleX(-1);
+  background-color: #000;
+}
+
+.MediaPreview-module__videoOverlay___Wy27K {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--cbio-color-text-white);
+  font-size: var(--cbio-font-size-md);
+}
+
+.MediaPreview-module__videoOverlaySolid___Ifi1O {
+  background-color: rgb(0, 0, 0);
+}
+
+.MediaPreview-module__videoOverlayTransparent___vPzQr {
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.MediaPreview-module__videoOverlayText___kzAHr {
+  text-align: center;
+  padding: 0 12px;
+}
+
+.MediaPreview-module__deviceContainer___MEdwh {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+}
+
+@media (max-width: 768px) {
+  .MediaPreview-module__deviceContainer___MEdwh {
+    flex-direction: column;
+  }
+}
+
+.MediaPreview-module__voiceVideoControls___qTsRx {
+  display: flex;
+  position: absolute;
+  bottom: 12px;
+  left: 50%;
+  transform: translateX(-50%);
+  border-radius: var(--cbio-radius-lg);
+  background-color: var(--cbio-color-background-primary);
+}
+
+.MediaPreview-module__voiceVideoControlsToggle___prGk3 {
+  width: 36px;
+  height: 36px;
+  border-radius: var(--cbio-radius-pill);
+}
+
+.MediaPreview-module__voiceVideoControlsToggle___prGk3:disabled {
+  cursor: not-allowed;
+}
+
+.MediaPreview-module__voiceVideoControlsToggleOff___ql_2k {
+  color: var(--cbio-color-danger);
+}
+
+.MediaPreview-module__voiceVideoControlsToggleOff___ql_2k:not(:disabled):hover {
+  background-color: var(--cbio-color-background-light);
+}
+
+.MediaPreview-module__voiceVideoControlsToggleOn___URkye {
+  color: var(--cbio-color-text-strong);
+}
+
+.MediaPreview-module__voiceVideoControlsToggleOn___URkye:not(:disabled):hover {
+  background-color: var(--cbio-color-background-light);
+}
+
+.MediaPreview-module__voiceVideoControlsIcon___yrQoV {
+  width: 24px;
+  height: 24px;
+}
+
 .CallParticipants-module__container___JHyh3 {
   display: grid;
   grid-auto-rows: min-content;
   gap: 12px;
   width: 300px;
   padding: 12px;
+}
+
+.CallParticipants-module__callControlsContainer___TBmXB {
+  width: 300px;
+  padding-bottom: 12px;
 }
 
 .CallParticipants-module__participantContainer___WEeET {
@@ -450,148 +554,55 @@
   color: var(--cbio-color-danger);
 }
 
-.MediaPreview-module__content___4fxuk {
-  display: flex;
-  flex-direction: column;
-  max-width: 500px;
-}
-
-.MediaPreview-module__header___E2CcH {
-  display: flex;
-  flex-direction: column;
-  gap: 35px;
-}
-
-.MediaPreview-module__media___kmkmo {
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
-}
-
-.MediaPreview-module__body___VPagd {
-  display: flex;
-  flex-direction: column;
-  font-size: var(--cbio-font-size-md);
-  line-height: var(--cbio-line-height-md);
-  color: var(--cbio-color-text-muted);
-  margin-top: 8px;
-}
-
-.MediaPreview-module__title___uSKCr {
-  color: var(--cbio-color-text-primary);
-  font-size: var(--cbio-font-size-lg);
-  font-weight: 700;
-  line-height: var(--cbio-line-height-lg);
-  margin: 0;
-}
-
-.MediaPreview-module__description___IPolu {
-  margin: 0;
-}
-
-.MediaPreview-module__previewContainer___hZF98 {
-  position: relative;
-}
-
-.MediaPreview-module__videoContainer____O8KD {
-  width: 100%;
-  height: 100%;
-  aspect-ratio: 16/9;
+.CallControls-module__container___wUFxd {
   border-radius: var(--cbio-radius-md);
+  color: var(--cbio-color-text-light);
+  box-shadow: var(--cbio-shadow-buttons);
+  display: flex;
   overflow: hidden;
-  position: relative;
 }
 
-.MediaPreview-module__video___DnVpX {
-  width: 100%;
-  height: 100%;
-  transform: scaleX(-1);
-  background-color: #000;
-}
-
-.MediaPreview-module__videoOverlay___Wy27K {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
+.CallControls-module__toggleContainer___RRBVx {
+  background-color: #292841;
+  padding: 10px 12px;
   display: flex;
   align-items: center;
-  justify-content: center;
-  color: var(--cbio-color-text-white);
-  font-size: var(--cbio-font-size-md);
+  gap: 10px;
 }
 
-.MediaPreview-module__videoOverlaySolid___Ifi1O {
-  background-color: rgb(0, 0, 0);
-}
-
-.MediaPreview-module__videoOverlayTransparent___vPzQr {
-  background-color: rgba(0, 0, 0, 0.4);
-}
-
-.MediaPreview-module__videoOverlayText___kzAHr {
-  text-align: center;
-  padding: 0 12px;
-}
-
-.MediaPreview-module__deviceContainer___MEdwh {
-  display: flex;
-  flex-direction: row;
-  gap: 12px;
-}
-
-.MediaPreview-module__buttonContainer___aXcOQ {
-  display: flex;
-  justify-content: flex-end;
-  gap: 8px;
-  margin-top: 35px;
-}
-
-@media (max-width: 768px) {
-  .MediaPreview-module__deviceContainer___MEdwh {
-    flex-direction: column;
-  }
-}
-
-.MediaPreview-module__voiceVideoControls___qTsRx {
-  display: flex;
-  position: absolute;
-  bottom: 12px;
-  left: 50%;
-  transform: translateX(-50%);
-  border-radius: var(--cbio-radius-lg);
-  background-color: var(--cbio-color-background-primary);
-}
-
-.MediaPreview-module__voiceVideoControlsToggle___prGk3 {
-  width: 36px;
-  height: 36px;
-  border-radius: var(--cbio-radius-pill);
-}
-
-.MediaPreview-module__voiceVideoControlsToggle___prGk3:disabled {
-  cursor: not-allowed;
-}
-
-.MediaPreview-module__voiceVideoControlsToggleOff___ql_2k {
-  color: var(--cbio-color-danger);
-}
-
-.MediaPreview-module__voiceVideoControlsToggleOff___ql_2k:not(:disabled):hover {
-  background-color: var(--cbio-color-background-light);
-}
-
-.MediaPreview-module__voiceVideoControlsToggleOn___URkye {
-  color: var(--cbio-color-text-strong);
-}
-
-.MediaPreview-module__voiceVideoControlsToggleOn___URkye:not(:disabled):hover {
-  background-color: var(--cbio-color-background-light);
-}
-
-.MediaPreview-module__voiceVideoControlsIcon___yrQoV {
+.CallControls-module__toggle___VVZ8_ {
   width: 24px;
   height: 24px;
+}
+
+.CallControls-module__toggleOff___ZmAQX {
+  color: #EF4444;
+}
+
+.CallControls-module__toggleOff___ZmAQX:hover {
+  color: var(--cbio-color-danger-hover-soft);
+}
+
+.CallControls-module__toggleOn___N0F_C {
+  color: var(--cbio-color-text-light);
+}
+
+.CallControls-module__toggleOn___N0F_C:hover {
+  color: var(--cbio-color-border);
+}
+
+.CallControls-module__icon___MMd56 {
+  width: 24px;
+  height: 24px;
+}
+
+.CallControls-module__end___tqUk1 {
+  background-color: var(--cbio-color-danger) !important;
+  height: 100%;
+  width: 44px;
+}
+
+.CallControls-module__end___tqUk1:hover {
+  background-color: var(--cbio-color-danger-hover) !important;
 }
 
