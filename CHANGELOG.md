@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.22.0](#) (2026-04-23)
+
+
+### Features
+
+* disabled view support for remote control ([#492](#)) ([7ea41fa](#))
+
+
+### Bug Fixes
+
+* ignore links that preload scripts ([#497](#)) ([402349a](#))
+* **session:** only set auth token when present ([#503](#)) ([0c18bad](#))
+* use image currentSrc when fetching image to send over wire ([#499](#)) ([126f28e](#))
+
 ## [3.21.0](#) (2026-04-08)
 
 

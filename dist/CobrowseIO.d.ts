@@ -4,6 +4,7 @@ type Metrics = { last_alive: Date | null, latency: number | null }
 type SessionState = 'active' | 'authorizing' | 'pending' | 'ended'
 type DeviceControlState = 'on' | 'off' | 'requested' | 'rejected'
 type EndedReason = 'device_ended' | 'agent_ended' | 'pending_timeout' | 'authorizing_timeout' | 'active_timeout' | 'limit_enforcement'
+type GlobSelector = { [urlPattern: string]: string[] }
 
 interface Session {
   readonly capabilities: string[]
@@ -46,9 +47,11 @@ export declare class CobrowseIO extends EventEmitter {
   api: string
   license: string
   customData: Record<string, string>
-  redactedViews: string[]
-  unredactedViews: string[]
-  ignoredViews: string[]
+  redactedViews: (string | GlobSelector)[]
+  unredactedViews: (string | GlobSelector)[]
+  ignoredViews: (string | GlobSelector)[]
+  disabledViews: (string | GlobSelector)[]
+  enabledViews: (string | GlobSelector)[]
   currentSession: Session | null
   trustedOrigins: (string | RegExp)[]
   universalLinks: (string | RegExp)[]
