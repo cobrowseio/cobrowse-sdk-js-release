@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.23.0](#) (2026-04-30)
+
+
+### Features
+
+* **elevenlabs:** force agent to skip a turn until activity + shift placement ([#454](#)) ([cf5608e](#))
+
 ## [3.22.0](#) (2026-04-23)
 
 
