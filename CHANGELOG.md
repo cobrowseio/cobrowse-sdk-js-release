@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.23.1](#) (2026-05-05)
+
+
+### Bug Fixes
+
+* detect programmatic select value change ([#506](#)) ([12ca1fe](#))
+
 ## [3.23.0](#) (2026-04-30)
 
 
