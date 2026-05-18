@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.24.0](#) (2026-05-18)
+
+
+### Features
+
+* select option group ([#508](#)) ([40eb569](#))
+
+
+### Bug Fixes
+
+* clean up interaction input listeners ([#511](#)) ([9417983](#))
+* resilient window taps ([#512](#)) ([2bf4beb](#))
+* verify protocol before handling UCB link ([#507](#)) ([90109e4](#))
+
 ### [3.23.1](#) (2026-05-05)
 
 
