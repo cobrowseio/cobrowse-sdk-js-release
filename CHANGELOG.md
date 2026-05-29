@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.24.1](#) (2026-05-29)
+
+
+### Bug Fixes
+
+* reissue 6 digit code after failed request ([#521](#)) ([9abbf61](#))
+
 ## [3.24.0](#) (2026-05-18)
 
 
