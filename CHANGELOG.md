@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.24.2](#) (2026-06-08)
+
+
+### Bug Fixes
+
+* order SVG attributes to prevent camelCase overwriting ([#522](#)) ([f6245e6](#))
+
 ### [3.24.1](#) (2026-05-29)
 
 
