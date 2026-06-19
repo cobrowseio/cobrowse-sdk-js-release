@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.25.0](#) (2026-06-19)
+
+
+### Features
+
+* rate limit session creation ([#523](#)) ([7f658df](#))
+
+
+### Bug Fixes
+
+* check universal capability before prompting ([#524](#)) ([783dffa](#))
+
 ### [3.24.2](#) (2026-06-08)
 
 
