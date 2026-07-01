@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.25.1](#) (2026-07-01)
+
+
+### Bug Fixes
+
+* improve native select accessibility ([#532](#)) ([3a7c84d](#))
+* **va:** allow events and pass in user's time ([#533](#)) ([a48a66a](#))
+
 ## [3.25.0](#) (2026-06-19)
 
 
