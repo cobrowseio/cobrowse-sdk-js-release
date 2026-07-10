@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.25.2](#) (2026-07-10)
+
+
+### Bug Fixes
+
+* rename docker file ([#537](#)) ([39e553d](#))
+* serialise shadow DOM contents when a root is first observed ([#539](#)) ([a060d48](#))
+* use unpolyfill in navigation tracking ([#541](#)) ([7e59f9b](#))
+
 ### [3.25.1](#) (2026-07-01)
 
 
