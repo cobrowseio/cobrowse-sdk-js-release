@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.25.3](#) (2026-07-18)
+
+
+### Bug Fixes
+
+* prevent sending normalised child with only id ([#545](#)) ([2e838e4](#))
+* selected option setter swizzle ([#544](#)) ([07eec7f](#))
+
 ### [3.25.2](#) (2026-07-10)
 
 
