@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.25.5](#) (2026-07-20)
+
+
+### Bug Fixes
+
+* avoid select dropdown reopening on iOS ([#548](#)) ([f5c7e11](#))
+
 ### [3.25.4](#) (2026-07-20)
 
 
