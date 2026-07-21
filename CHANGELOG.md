@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.25.6](#) (2026-07-21)
+
+
+### Bug Fixes
+
+* capture form reset events ([#549](#)) ([e91d8d2](#))
+
 ### [3.25.5](#) (2026-07-20)
 
 
