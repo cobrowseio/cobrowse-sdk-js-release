@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.25.7](#) (2026-07-22)
+
+
+### Bug Fixes
+
+* handle JSON.stringify calls on location proxy ([#552](#)) ([0ab886e](#))
+
 ### [3.25.6](#) (2026-07-21)
 
 
