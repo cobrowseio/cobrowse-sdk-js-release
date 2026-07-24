@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.25.8](#) (2026-07-24)
+
+
+### Bug Fixes
+
+* prevent duplicate calls to the remote control hook ([#547](#)) ([68ae234](#))
+* recursively sync form elements after form reset ([#554](#)) ([07221c6](#))
+
 ### [3.25.7](#) (2026-07-22)
 
 
