@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.26.0](#) (2026-08-05)
+
+
+### Features
+
+* backgrounded window ([#513](#)) ([39d3fd5](#))
+* device metrics ([#558](#)) ([ef9c87b](#))
+* serialise content fallback errors ([#525](#)) ([effb171](#))
+
+
+### Bug Fixes
+
+* core-js function source reader in ucb ([#560](#)) ([4bb4b15](#))
+* window open without url ([#559](#)) ([d008d43](#))
+
 ### [3.25.8](#) (2026-07-24)
 
 
