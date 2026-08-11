@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.27.0](#) (2026-08-11)
+
+
+### Features
+
+* report scrollbar size ([#561](#)) ([f2b4417](#))
+
 ## [3.26.0](#) (2026-08-05)
 
 
