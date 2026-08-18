@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.28.0](#) (2026-08-18)
+
+
+### Features
+
+* support form submissions to launch universal cobrowse ([#565](#)) ([d407a2b](#))
+
+
+### Bug Fixes
+
+* single flight guard for public async methods ([#566](#)) ([eebbf78](#))
+
 ## [3.27.0](#) (2026-08-11)
 
 
