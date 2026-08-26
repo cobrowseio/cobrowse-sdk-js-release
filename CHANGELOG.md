@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.28.1](#) (2026-08-26)
+
+
+### Bug Fixes
+
+* patch document write on parent page ([#568](#)) ([c48362c](#))
+* use unpolyfilled Object to get property descriptor ([#567](#)) ([c83bb30](#))
+
 ## [3.28.0](#) (2026-08-18)
 
 
