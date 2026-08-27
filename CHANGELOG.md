@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.28.2](#) (2026-08-27)
+
+
+### Bug Fixes
+
+* append select into nearest modal parent ([#570](#)) ([6837ca0](#))
+
 ### [3.28.1](#) (2026-08-26)
 
 
