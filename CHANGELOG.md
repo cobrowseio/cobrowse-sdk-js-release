@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.28.3](#) (2026-08-28)
+
+
+### Bug Fixes
+
+* prevent inherited redacted content from leaving the device ([#571](#)) ([f00db3b](#))
+
 ### [3.28.2](#) (2026-08-27)
 
 
