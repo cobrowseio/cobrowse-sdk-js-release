@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.28.4](#) (2026-09-17)
+
+
+### Bug Fixes
+
+* bump cocom to 0.0.29 to drop deprecated unload event listener ([#580](#)) ([431684f](#))
+* serve mjs as javascript instead of octet-stream ([#573](#)) ([a98167b](#))
+* table fragments should not be stripped in Universal Cobrowse ([#576](#)) ([69b01ab](#))
+
 ### [3.28.3](#) (2026-08-28)
 
 
