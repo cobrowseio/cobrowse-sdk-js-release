@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.28.5](#) (2026-09-17)
+
+
+### Bug Fixes
+
+* update input value before dispatching input event ([#581](#)) ([7e63739](#))
+
 ### [3.28.4](#) (2026-09-17)
 
 
