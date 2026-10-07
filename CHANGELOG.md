@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.28.8](#) (2026-10-07)
+
+
+### Bug Fixes
+
+* keep laser and click ripple colour in high contrast modes ([#589](#)) ([8b7de52](#))
+
 ### [3.28.7](#) (2026-09-23)
 
 
