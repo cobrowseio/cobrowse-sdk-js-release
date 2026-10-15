@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.28.9](#) (2026-10-15)
+
+
+### Bug Fixes
+
+* ensure universal client remains unproxified ([#599](#)) ([b46fcb0](#))
+* pass document base in fetch patch ([#598](#)) ([f854f74](#))
+* prevent proxy of local variables named location ([#600](#)) ([732fbfd](#))
+
 ### [3.28.8](#) (2026-10-07)
 
 
