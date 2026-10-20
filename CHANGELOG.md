@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.29.0](#) (2026-10-20)
+
+
+### Features
+
+* add cbioDestructurer accessor ([#604](#)) ([0163df9](#))
+* **metrics:** socket reconnects and session restoration ([#605](#)) ([0ee022c](#))
+
+
+### Bug Fixes
+
+* harden iframe messaging with trust and direction enforcement ([#603](#)) ([b19620c](#))
+* prevent UCB client from proxying itself ([#606](#)) ([766811d](#))
+
 ### [3.28.9](#) (2026-10-15)
 
 
