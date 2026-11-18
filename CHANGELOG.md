@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.32.0](#) (2026-11-18)
+
+
+### Features
+
+* report the device's connection to Cobrowse through device.connection.updated ([#618](#)) ([77cabec](#))
+
+
+### Bug Fixes
+
+* untrack same origin iframes on unload ([#608](#)) ([0ab7284](#))
+
 ## [3.31.0](#) (2026-10-29)
 
 
